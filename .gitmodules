@@ -1,0 +1,3 @@
+[submodule "camping-world"]
+	path = camping-world
+	url = git@github.com:SpencerDawson/coding-assignments-camping-world.git
